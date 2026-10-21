@@ -4,8 +4,8 @@
 Accomplished **Software Developer & Mobile Application Engineer** with 3+ years of professional experience architecting, optimizing, and shipping production-grade **iOS, Android, and Web applications** using **Flutter, Dart, and Node.js**. Strong expertise in scalable architectures (Clean Architecture, MVVM), state management, real-time communication systems, and AI integrations.
 
 - 🌍 **Location:** Lahore, Pakistan (Open to Remote & Relocation)
-- ✉️ **Email:** [asadmian5@gmail.com](mailto:asadmian5@gmail.com)
-- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- ✉️ **Email:** asadmian5@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/asadmian5/
 - 🚀 **Core Focus:** Full-Stack Mobile & Web Ecosystems, AI Integrations (Gemini API), Offline-First Apps & Real-Time Systems.
 
 ---
@@ -35,5 +35,5 @@ Accomplished **Software Developer & Mobile Application Engineer** with 3+ years 
 
 ### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [https://www.://linkedin.com/](https://www.://linkedin.com/)
-- 📧 **Email:** [asadmian5@gmail.com](mailto:asadmian5@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/asadmian5/
+- 📧 **Email:** asadmian5@gmail.com
