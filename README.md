@@ -5,7 +5,7 @@ Accomplished **Software Developer & Mobile Application Engineer** with 3+ years 
 
 - 🌍 **Location:** Lahore, Pakistan (Open to Remote & Relocation)
 - ✉️ **Email:** [asadmian5@gmail.com](mailto:asadmian5@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/asadmian5](https://www.linkedin.com/in/asadmian5/)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
 - 🚀 **Core Focus:** Full-Stack Mobile & Web Ecosystems, AI Integrations (Gemini API), Offline-First Apps & Real-Time Systems.
 
 ---
@@ -14,12 +14,12 @@ Accomplished **Software Developer & Mobile Application Engineer** with 3+ years 
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Mobile & Web UI** | ![Flutter](https://shields.io) ![Dart](https://shields.io) ![HTML5](https://shields.io) `Flutter Web` `Responsive UI` `Custom Animations` `Material Design` `go_router` |
-| **Backend & APIs** | ![Node.js](https://shields.io) ![GraphQL](https://shields.io) ![Python](https://shields.io) `RESTful APIs` `WebSockets` `CRUD Microservices` `Bearer Token Auth` |
-| **AI, Real-Time & IoT** | ![Google Gemini](https://shields.io) `Speech & Vision AI` `Agora Video SDK` `Google Maps Platform` `Stripe Payments` `MQTT (IoT)` `Bluetooth (BLE)` |
-| **State & Architecture** | `Riverpod` `BLoC` `GetX` `Provider` `Clean Architecture` `MVVM Design` `Modular Feature-Based Structure` |
-| **Databases & Storage** | ![MongoDB](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![Firebase](https://shields.io) ![SQLite](https://shields.io) `Hive` `Cloud Firestore` `Redis` `SharedPreferences` |
-| **DevOps, QA & Tools** | ![Git](https://shields.io) ![Docker](https://shields.io) ![Linux](https://shields.io) ![Postman](https://shields.io) `GitHub Actions (CI/CD)` `Android Studio` `VS Code` `Flutter DevTools` `Play Store & App Store Deployment` |
+| **📱 Mobile & Web UI** | `Flutter` `Dart` `Flutter Web` `HTML5` `Responsive UI` `Custom Animations` `Material Design` `go_router` |
+| **⚙️ Backend & APIs** | `Node.js` `RESTful APIs` `GraphQL` `WebSockets` `Python` `CRUD Microservices` `Bearer Token Auth` |
+| **🤖 AI, Real-Time & IoT** | `Google Gemini AI (Speech & Vision)` `Agora Video SDK` `Google Maps Platform` `Stripe Payments` `MQTT (IoT)` `Bluetooth (BLE)` |
+| **🏗️ State & Architecture** | `Riverpod` `BLoC` `GetX` `Provider` `Clean Architecture` `MVVM Design` `Modular Feature-Based Structure` |
+| **🗄️ Databases & Storage** | `MongoDB` `MySQL` `PostgreSQL` `Firebase` `Cloud Firestore` `SQLite` `Hive` `Redis` `SharedPreferences` |
+| **🚀 DevOps, QA & Tools** | `Git` `GitHub Actions (CI/CD)` `Docker` `Linux` `Postman` `Android Studio` `VS Code` `Flutter DevTools` `Play Store & App Store Deployment` |
 
 ---
 
@@ -33,23 +33,8 @@ Accomplished **Software Developer & Mobile Application Engineer** with 3+ years 
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://vercel.app" alt="Asad's GitHub Stats" height="165px" />
-  <img src="https://vercel.app" alt="Top Languages" height="165px" />
-</p>
-
----
-
 ### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/asadmian5/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:asadmian5@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-</p>
+
+- 💼 **LinkedIn:** [https://www.://linkedin.com/](https://www.://linkedin.com/)
+- 📧 **Email:** [asadmian5@gmail.com](mailto:asadmian5@gmail.com)
+- 💻 **GitHub:** [https://github.com](https://github.com)
