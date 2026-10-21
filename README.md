@@ -37,4 +37,3 @@ Accomplished **Software Developer & Mobile Application Engineer** with 3+ years 
 
 - 💼 **LinkedIn:** [https://www.://linkedin.com/](https://www.://linkedin.com/)
 - 📧 **Email:** [asadmian5@gmail.com](mailto:asadmian5@gmail.com)
-- 💻 **GitHub:** [https://github.com](https://github.com)
